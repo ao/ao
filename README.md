@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Looking for something to read? Check out the [Software Engineering Authority](https://ao.ms)
+Looking for something to read? Check out the [Software Engineering Authority](https://ataiva.com)
