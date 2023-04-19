@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Looking for something to read? Check out the [Software Engineering Authority](https://ataiva.com)
+Looking for something to read? [Learn how to Master Software Engineering, DevOps and Cloud](https://andrewodendaal.com/)
