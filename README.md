@@ -2,7 +2,7 @@
 
 Looking for something to read? [Articles about Software Engineering, AI, DevOps, Cloud and more](https://ataiva.com/)
 
-# Lates Blog Posts
+# Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Learn Concurrency in Go](https://ataiva.com/learn-concurrency-in-go/)
 - [Learn Go as a DevOps Engineer](https://ataiva.com/learn-go-as-a-devops-engineer/)
