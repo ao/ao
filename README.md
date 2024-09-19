@@ -5,6 +5,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Create Your Own Programming Language](https://ataiva.com/how-to-create-your-own-programming-language/)
+- [Poetry vs Pip: Comparing Python Dependency Management and Packaging Tools](https://ataiva.com/poetry-vs-pip-comparing-python-dependency-management-and-packaging-tools/)
 - [Creating a Docker Alternative in Python](https://ataiva.com/creating-a-docker-alternative-in-python/)
 - [Why Different Programming Languages Need to Exist](https://ataiva.com/why-different-programming-languages-need-to-exist/)
 - [Learn Concurrency in Go](https://ataiva.com/learn-concurrency-in-go/)
@@ -53,5 +54,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Secure Efficient Server Management with AWS Systems Manager](https://ataiva.com/secure-efficient-server-management-aws-systems-manager/)
 - [How to Get a List of Available Regions from AWS CLI](https://ataiva.com/how-to-get-a-list-of-available-regions-from-aws-cli/)
 - [[Solved] A Number After a Double Reversal in Python](https://ataiva.com/solved-a-number-after-a-double-reversal-in-python/)
-- [Common Issues and Mastering Effective Debugging Techniques](https://ataiva.com/common-issues-mastering-effective-debugging-techniques/)
 <!-- BLOG-POST-LIST:END -->
