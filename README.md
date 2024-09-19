@@ -4,6 +4,9 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Your Own Programming Language](https://ataiva.com/how-to-create-your-own-programming-language/)
+- [Creating a Docker Alternative in Python](https://ataiva.com/creating-a-docker-alternative-in-python/)
+- [Why Different Programming Languages Need to Exist](https://ataiva.com/why-different-programming-languages-need-to-exist/)
 - [Learn Concurrency in Go](https://ataiva.com/learn-concurrency-in-go/)
 - [Learn Go as a DevOps Engineer](https://ataiva.com/learn-go-as-a-devops-engineer/)
 - [Developing a Custom Kubernetes Controller in Go](https://ataiva.com/developing-a-custom-kubernetes-controller-in-go/)
@@ -51,7 +54,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [How to Get a List of Available Regions from AWS CLI](https://ataiva.com/how-to-get-a-list-of-available-regions-from-aws-cli/)
 - [[Solved] A Number After a Double Reversal in Python](https://ataiva.com/solved-a-number-after-a-double-reversal-in-python/)
 - [Common Issues and Mastering Effective Debugging Techniques](https://ataiva.com/common-issues-mastering-effective-debugging-techniques/)
-- [K8s CI/CD: GitOps with Jenkins, GitLab, Argo CD](https://ataiva.com/k8s-ci-cd-gitops-jenkins-gitlab-argo-cd/)
-- [K8s Monitoring &amp; Logging: Best Practices &amp; Top Tools](https://ataiva.com/k8s-monitoring-logging-practices-top-tools/)
-- [K8s Upgrades &amp; Rollbacks Guide to Compatibility &amp; Strategies](https://ataiva.com/k8s-upgrades-rollbacks-guide-compatibility-strategies/)
 <!-- BLOG-POST-LIST:END -->
