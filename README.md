@@ -4,8 +4,13 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing the Two Sum Problem: Techniques, Trade-offs, and Performance](https://ataiva.com/optimizing-the-two-sum-problem-techniques-trade-offs-and-performance/)
+- [How to Migrate Docker Repositories to a New DockerHub Username](https://ataiva.com/migrate-docker-repositories-new-username/)
+- [Python 3.13 No-GIL Mode: How to Unlock True Multi-Threading and Boost Performance](https://ataiva.com/python-3-13-no-gil-multi-threading-performance/)
+- [API Security Guide: Protect Your Application from Cyber Threats](https://ataiva.com/api-security-guide-protect-your-application-from-cyber-threats/)
 - [How to Create Your Own Programming Language](https://ataiva.com/how-to-create-your-own-programming-language/)
 - [Poetry vs Pip: Comparing Python Dependency Management and Packaging Tools](https://ataiva.com/poetry-vs-pip-comparing-python-dependency-management-and-packaging-tools/)
+- [A Complete DevOps Guide for Beginners](https://ataiva.com/a-complete-devops-guide-for-beginners/)
 - [Creating a Docker Alternative in Python](https://ataiva.com/creating-a-docker-alternative-in-python/)
 - [Why Different Programming Languages Need to Exist](https://ataiva.com/why-different-programming-languages-need-to-exist/)
 - [The Future of AI in Software Development: What to Expect in 2025](https://ataiva.com/future-of-ai-in-software-development-what-to-expect-in-2025/)
@@ -49,9 +54,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Private Application Load Balancer for EKS in Terraform](https://ataiva.com/private-application-load-balancer-eks-terraform/)
 - [Kubernetes vs Docker Swarm for Container Orchestration](https://ataiva.com/kubernetes-docker-swarm-container-orchestration/)
 - [Setting Comprehensive CI/CD Pipeline with Jenkins and Docker](https://ataiva.com/setting-comprehensive-ci-cd-pipeline-jenkins-docker/)
-- [Navigating Microsoft Azure for Seasoned AWS Experts](https://ataiva.com/navigating-microsoft-azure-seasoned-aws-experts/)
-- [Navigating Google Cloud Platform &lpar;GCP&rpar; for AWS Experts](https://ataiva.com/navigating-google-cloud-platform-gcp-aws-experts/)
-- [Create a slug from a name in MySQL/MariaDB](https://ataiva.com/create-a-slug-from-a-name-in-mysql-mariadb/)
-- [Secure Efficient Server Management with AWS Systems Manager](https://ataiva.com/secure-efficient-server-management-aws-systems-manager/)
-- [How to Get a List of Available Regions from AWS CLI](https://ataiva.com/how-to-get-a-list-of-available-regions-from-aws-cli/)
 <!-- BLOG-POST-LIST:END -->
