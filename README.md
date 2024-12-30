@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust&#39;s unwrap: Unlocking Its Potential and Avoiding Pitfalls](https://ataiva.com/rust-unwrap-function/)
 - [Optimizing the Two Sum Problem: Techniques, Trade-offs, and Performance](https://ataiva.com/optimizing-the-two-sum-problem-techniques-trade-offs-and-performance/)
 - [How to Migrate Docker Repositories to a New DockerHub Username](https://ataiva.com/migrate-docker-repositories-new-username/)
 - [Python 3.13 No-GIL Mode: How to Unlock True Multi-Threading and Boost Performance](https://ataiva.com/python-3-13-no-gil-multi-threading-performance/)
@@ -53,5 +54,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [How to add Payment Subscriptions with Stripe in Django](https://ataiva.com/add-payment-subscriptions-stripe-django/)
 - [Private Application Load Balancer for EKS in Terraform](https://ataiva.com/private-application-load-balancer-eks-terraform/)
 - [Kubernetes vs Docker Swarm for Container Orchestration](https://ataiva.com/kubernetes-docker-swarm-container-orchestration/)
-- [Setting Comprehensive CI/CD Pipeline with Jenkins and Docker](https://ataiva.com/setting-comprehensive-ci-cd-pipeline-jenkins-docker/)
 <!-- BLOG-POST-LIST:END -->
