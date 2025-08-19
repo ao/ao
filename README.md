@@ -4,6 +4,8 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Go Testing Strategies and Benchmarking: Building Bulletproof Applications](https://ataiva.com/advanced-go-testing-strategies-benchmarking/)
+- [Chaos Engineering Practices: Building Resilient Systems Through Controlled Failure](https://ataiva.com/chaos-engineering-practices/)
 - [Go Concurrency Patterns for Distributed Systems: Advanced Synchronization and Coordination](https://ataiva.com/go-concurrency-patterns-distributed-systems/)
 - [API-First Development: Building Digital Platforms for the Modern Enterprise](https://ataiva.com/api-first-development/)
 - [Rust&#39;s Security Features: Building Robust, Vulnerability-Free Software](https://ataiva.com/rust-security-features/)
@@ -27,6 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Rust&#39;s Ecosystem and Community: The Foundation of Success](https://ataiva.com/rust-ecosystem-community/)
 - [Data Consistency Models in Distributed Systems](https://ataiva.com/data-consistency-distributed-systems/)
 - [Building an AI Ethics and Governance Framework for Enterprise Applications](https://ataiva.com/ai-ethics-governance-framework/)
-- [Containerization Best Practices: Building Efficient and Secure Container Environments](https://ataiva.com/containerization-best-practices/)
-- [Machine Learning with Rust: Performance and Safety for AI Applications](https://ataiva.com/rust-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
