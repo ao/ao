@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Performance Profiling and Optimization Techniques: Maximizing Application Efficiency](https://ataiva.com/go-performance-profiling-optimization-techniques/)
 - [Advanced Go Testing Strategies and Benchmarking: Building Bulletproof Applications](https://ataiva.com/advanced-go-testing-strategies-benchmarking/)
 - [Chaos Engineering Practices: Building Resilient Systems Through Controlled Failure](https://ataiva.com/chaos-engineering-practices/)
 - [Go Concurrency Patterns for Distributed Systems: Advanced Synchronization and Coordination](https://ataiva.com/go-concurrency-patterns-distributed-systems/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Data Engineering Best Practices: Building Scalable and Reliable Data Pipelines](https://ataiva.com/data-engineering-best-practices/)
 - [Rust&#39;s Ecosystem and Community: The Foundation of Success](https://ataiva.com/rust-ecosystem-community/)
 - [Data Consistency Models in Distributed Systems](https://ataiva.com/data-consistency-distributed-systems/)
-- [Building an AI Ethics and Governance Framework for Enterprise Applications](https://ataiva.com/ai-ethics-governance-framework/)
 <!-- BLOG-POST-LIST:END -->
