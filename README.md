@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building Resilient Go Applications with Circuit Breakers: Advanced Fault Tolerance Patterns](https://ataiva.com/building-resilient-go-applications-circuit-breakers/)
 - [Go Performance Profiling and Optimization Techniques: Maximizing Application Efficiency](https://ataiva.com/go-performance-profiling-optimization-techniques/)
 - [Advanced Go Testing Strategies and Benchmarking: Building Bulletproof Applications](https://ataiva.com/advanced-go-testing-strategies-benchmarking/)
 - [Chaos Engineering Practices: Building Resilient Systems Through Controlled Failure](https://ataiva.com/chaos-engineering-practices/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Rust Performance Optimization: Techniques for Blazing Fast Code](https://ataiva.com/rust-performance-optimization/)
 - [Data Engineering Best Practices: Building Scalable and Reliable Data Pipelines](https://ataiva.com/data-engineering-best-practices/)
 - [Rust&#39;s Ecosystem and Community: The Foundation of Success](https://ataiva.com/rust-ecosystem-community/)
-- [Data Consistency Models in Distributed Systems](https://ataiva.com/data-consistency-distributed-systems/)
 <!-- BLOG-POST-LIST:END -->
