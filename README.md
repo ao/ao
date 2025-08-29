@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go WebAssembly: Building High-Performance Web Applications](https://ataiva.com/go-webassembly-high-performance-web-applications/)
 - [Advanced Go Reflection and Code Generation: Metaprogramming Mastery](https://ataiva.com/advanced-go-reflection-code-generation/)
 - [Testing and Debugging in Rust: Ensuring Code Quality and Reliability](https://ataiva.com/rust-testing-debugging/)
 - [Building Resilient Go Applications with Circuit Breakers: Advanced Fault Tolerance Patterns](https://ataiva.com/building-resilient-go-applications-circuit-breakers/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Edge Computing Architectures: Bringing Computation Closer to Data Sources](https://ataiva.com/edge-computing-architectures/)
 - [Automated Remediation: Building Self-Healing Systems for Modern SRE Teams](https://ataiva.com/automated-remediation-sre/)
 - [Load Balancing Strategies for Distributed Systems](https://ataiva.com/load-balancing-distributed-systems/)
-- [Rust Performance Optimization: Techniques for Blazing Fast Code](https://ataiva.com/rust-performance-optimization/)
 <!-- BLOG-POST-LIST:END -->
