@@ -4,6 +4,8 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Go Channel Patterns: Mastering Communication in Concurrent Systems](https://andrewodendaal.com/advanced-go-channel-patterns-concurrent-systems/)
+- [GitOps for Multi-Environment Deployments: Scaling Infrastructure as Code](https://andrewodendaal.com/gitops-multi-environment-deployments/)
 - [Cloud-Native Security: Protecting Modern Distributed Applications](https://andrewodendaal.com/cloud-native-security/)
 - [SOC 2 and ISO 27001 for SaaS Companies: A Comprehensive Implementation Guide](https://andrewodendaal.com/soc2-and-iso27001-for-saas-companies/)
 - [Zero Trust Security Architecture for Distributed Systems](https://andrewodendaal.com/zero-trust-security-architecture/)
@@ -27,6 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Rust Design Patterns and Idioms: Writing Idiomatic, Maintainable Code](https://andrewodendaal.com/rust-design-patterns/)
 - [Microservices Architecture Patterns: Design Strategies for Scalable Systems](https://andrewodendaal.com/microservices-architecture-patterns/)
 - [Real-Time Data Processing: Architectures and Best Practices](https://andrewodendaal.com/real-time-data-processing/)
-- [Service Discovery in Distributed Systems: Patterns and Implementation](https://andrewodendaal.com/service-discovery-distributed-systems/)
-- [Rust Interoperability: Seamlessly Working with Other Languages](https://andrewodendaal.com/rust-interoperability/)
 <!-- BLOG-POST-LIST:END -->
