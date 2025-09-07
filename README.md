@@ -4,6 +4,8 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Context Patterns: Advanced Request Lifecycle Management](https://andrewodendaal.com/go-context-patterns-request-lifecycle-management/)
+- [Rust Documentation Practices: Creating Clear, Comprehensive, and Useful Docs](https://andrewodendaal.com/rust-documentation-practices/)
 - [Advanced Go Channel Patterns: Mastering Communication in Concurrent Systems](https://andrewodendaal.com/advanced-go-channel-patterns-concurrent-systems/)
 - [GitOps for Multi-Environment Deployments: Scaling Infrastructure as Code](https://andrewodendaal.com/gitops-multi-environment-deployments/)
 - [Cloud-Native Security: Protecting Modern Distributed Applications](https://andrewodendaal.com/cloud-native-security/)
@@ -27,6 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Distributed Systems Resilience: Building Robust Applications in an Uncertain World](https://andrewodendaal.com/distributed-systems-resilience/)
 - [Implementing Zero Trust in the Cloud: Architecture and Best Practices](https://andrewodendaal.com/implementing-zero-trust-in-the-cloud/)
 - [Rust Design Patterns and Idioms: Writing Idiomatic, Maintainable Code](https://andrewodendaal.com/rust-design-patterns/)
-- [Microservices Architecture Patterns: Design Strategies for Scalable Systems](https://andrewodendaal.com/microservices-architecture-patterns/)
-- [Real-Time Data Processing: Architectures and Best Practices](https://andrewodendaal.com/real-time-data-processing/)
 <!-- BLOG-POST-LIST:END -->
