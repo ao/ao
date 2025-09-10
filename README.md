@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Sync Package Mastery: Advanced Synchronization Primitives](https://andrewodendaal.com/go-sync-package-mastery-synchronization-primitives/)
 - [Go Context Patterns: Advanced Request Lifecycle Management](https://andrewodendaal.com/go-context-patterns-request-lifecycle-management/)
 - [Rust Documentation Practices: Creating Clear, Comprehensive, and Useful Docs](https://andrewodendaal.com/rust-documentation-practices/)
 - [Advanced Go Channel Patterns: Mastering Communication in Concurrent Systems](https://andrewodendaal.com/advanced-go-channel-patterns-concurrent-systems/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [The Future of Rust: Roadmap and Upcoming Features](https://andrewodendaal.com/rust-future-roadmap/)
 - [Distributed Systems Resilience: Building Robust Applications in an Uncertain World](https://andrewodendaal.com/distributed-systems-resilience/)
 - [Implementing Zero Trust in the Cloud: Architecture and Best Practices](https://andrewodendaal.com/implementing-zero-trust-in-the-cloud/)
-- [Rust Design Patterns and Idioms: Writing Idiomatic, Maintainable Code](https://andrewodendaal.com/rust-design-patterns/)
 <!-- BLOG-POST-LIST:END -->
