@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Atomic Operations: Lock-Free Programming Techniques](https://andrewodendaal.com/go-atomic-operations-lock-free-programming/)
 - [Go Sync Package Mastery: Advanced Synchronization Primitives](https://andrewodendaal.com/go-sync-package-mastery-synchronization-primitives/)
 - [Go Context Patterns: Advanced Request Lifecycle Management](https://andrewodendaal.com/go-context-patterns-request-lifecycle-management/)
 - [Rust Documentation Practices: Creating Clear, Comprehensive, and Useful Docs](https://andrewodendaal.com/rust-documentation-practices/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Serverless Architecture Patterns for Distributed Systems](https://andrewodendaal.com/serverless-architecture-patterns/)
 - [The Future of Rust: Roadmap and Upcoming Features](https://andrewodendaal.com/rust-future-roadmap/)
 - [Distributed Systems Resilience: Building Robust Applications in an Uncertain World](https://andrewodendaal.com/distributed-systems-resilience/)
-- [Implementing Zero Trust in the Cloud: Architecture and Best Practices](https://andrewodendaal.com/implementing-zero-trust-in-the-cloud/)
 <!-- BLOG-POST-LIST:END -->
