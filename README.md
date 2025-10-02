@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Mesh Architecture: A Paradigm Shift for Distributed Data](https://andrewodendaal.com/data-mesh-architecture/)
 - [AI-Powered Code Generation: Transforming Enterprise Software Development](https://andrewodendaal.com/ai-code-generation-enterprise/)
 - [Rust Package Management with Cargo: Beyond the Basics](https://andrewodendaal.com/rust-cargo-package-management/)
 - [Rust Documentation Practices: Creating Clear, Comprehensive, and Useful Docs](https://andrewodendaal.com/rust-documentation-practices/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Building an AI Ethics and Governance Framework for Enterprise Applications](https://andrewodendaal.com/ai-ethics-governance-framework/)
 - [Machine Learning with Rust: Performance and Safety for AI Applications](https://andrewodendaal.com/rust-machine-learning/)
 - [Site Reliability Engineering Fundamentals: Building and Scaling Reliable Services](https://andrewodendaal.com/site-reliability-engineering-fundamentals/)
-- [Data Engineering Best Practices: Building Robust Pipelines](https://andrewodendaal.com/articles/data-engineering-best-practices/)
 <!-- BLOG-POST-LIST:END -->
