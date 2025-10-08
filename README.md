@@ -4,6 +4,8 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Go Distributed Consensus: Implementing Raft and Leader Election](https://andrewodendaal.com/go-distributed-consensus-raft-leader-election/)
+- [Observability Patterns for Distributed Systems: Beyond Metrics, Logs, and Traces](https://andrewodendaal.com/observability-patterns-distributed-systems/)
 - [Data Mesh Architecture: A Paradigm Shift for Distributed Data](https://andrewodendaal.com/data-mesh-architecture/)
 - [AI-Powered Code Generation: Transforming Enterprise Software Development](https://andrewodendaal.com/ai-code-generation-enterprise/)
 - [Rust Package Management with Cargo: Beyond the Basics](https://andrewodendaal.com/rust-cargo-package-management/)
@@ -27,6 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Rust&#39;s Ecosystem and Community: The Foundation of Success](https://andrewodendaal.com/rust-ecosystem-community/)
 - [Data Consistency Models in Distributed Systems](https://andrewodendaal.com/data-consistency-distributed-systems/)
 - [Building an AI Ethics and Governance Framework for Enterprise Applications](https://andrewodendaal.com/ai-ethics-governance-framework/)
-- [Machine Learning with Rust: Performance and Safety for AI Applications](https://andrewodendaal.com/rust-machine-learning/)
-- [Site Reliability Engineering Fundamentals: Building and Scaling Reliable Services](https://andrewodendaal.com/site-reliability-engineering-fundamentals/)
 <!-- BLOG-POST-LIST:END -->
