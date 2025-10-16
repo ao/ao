@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rust Ecosystem and Community in 2025: A Comprehensive Guide](https://andrewodendaal.com/rust-ecosystem-community/)
 - [Go Distributed Consensus: Implementing Raft and Leader Election](https://andrewodendaal.com/go-distributed-consensus-raft-leader-election/)
 - [Observability Patterns for Distributed Systems: Beyond Metrics, Logs, and Traces](https://andrewodendaal.com/observability-patterns-distributed-systems/)
 - [Data Mesh Architecture: A Paradigm Shift for Distributed Data](https://andrewodendaal.com/data-mesh-architecture/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [SRE Capacity Planning: Resource Management](https://andrewodendaal.com/articles/sre-capacity-planning/)
 - [Rust&#39;s Ecosystem and Community: The Foundation of Success](https://andrewodendaal.com/rust-ecosystem-community/)
 - [Data Consistency Models in Distributed Systems](https://andrewodendaal.com/data-consistency-distributed-systems/)
-- [Building an AI Ethics and Governance Framework for Enterprise Applications](https://andrewodendaal.com/ai-ethics-governance-framework/)
 <!-- BLOG-POST-LIST:END -->
