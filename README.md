@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Container Security Best Practices: Protecting Your Containerized Applications](https://andrewodendaal.com/container-security-best-practices/)
 - [The Rust Ecosystem and Community in 2025: A Comprehensive Guide](https://andrewodendaal.com/rust-ecosystem-community/)
 - [Go Distributed Consensus: Implementing Raft and Leader Election](https://andrewodendaal.com/go-distributed-consensus-raft-leader-election/)
 - [Observability Patterns for Distributed Systems: Beyond Metrics, Logs, and Traces](https://andrewodendaal.com/observability-patterns-distributed-systems/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Automated Remediation: Building Self-Healing Systems for Modern SRE Teams](https://andrewodendaal.com/automated-remediation-sre/)
 - [SRE Capacity Planning: Resource Management](https://andrewodendaal.com/articles/sre-capacity-planning/)
 - [Rust&#39;s Ecosystem and Community: The Foundation of Success](https://andrewodendaal.com/rust-ecosystem-community/)
-- [Data Consistency Models in Distributed Systems](https://andrewodendaal.com/data-consistency-distributed-systems/)
 <!-- BLOG-POST-LIST:END -->
