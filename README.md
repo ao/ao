@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust&#39;s Design Philosophy and Principles: Understanding the Language&#39;s Core Values](https://andrewodendaal.com/rust-design-philosophy-principles/)
 - [Container Security Best Practices: Protecting Your Containerized Applications](https://andrewodendaal.com/container-security-best-practices/)
 - [The Rust Ecosystem and Community in 2025: A Comprehensive Guide](https://andrewodendaal.com/rust-ecosystem-community/)
 - [Go Distributed Consensus: Implementing Raft and Leader Election](https://andrewodendaal.com/go-distributed-consensus-raft-leader-election/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Edge Computing Architectures: Bringing Computation Closer to Data Sources](https://andrewodendaal.com/edge-computing-architectures/)
 - [Automated Remediation: Building Self-Healing Systems for Modern SRE Teams](https://andrewodendaal.com/automated-remediation-sre/)
 - [SRE Capacity Planning: Resource Management](https://andrewodendaal.com/articles/sre-capacity-planning/)
-- [Rust&#39;s Ecosystem and Community: The Foundation of Success](https://andrewodendaal.com/rust-ecosystem-community/)
 <!-- BLOG-POST-LIST:END -->
