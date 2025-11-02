@@ -4,6 +4,8 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Common Cloud Security Misconfigurations: Detection and Remediation](https://andrewodendaal.com/common-cloud-security-misconfigurations/)
+- [DevSecOps Implementation Guide for Distributed Systems](https://andrewodendaal.com/devsecops-implementation-guide/)
 - [Rust&#39;s Design Philosophy and Principles: Understanding the Language&#39;s Core Values](https://andrewodendaal.com/rust-design-philosophy-principles/)
 - [Container Security Best Practices: Protecting Your Containerized Applications](https://andrewodendaal.com/container-security-best-practices/)
 - [The Rust Ecosystem and Community in 2025: A Comprehensive Guide](https://andrewodendaal.com/rust-ecosystem-community/)
@@ -27,6 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Service Discovery in Distributed Systems: Patterns and Implementation](https://andrewodendaal.com/service-discovery-distributed-systems/)
 - [Rust Interoperability: Seamlessly Working with Other Languages](https://andrewodendaal.com/rust-interoperability/)
 - [Edge Computing Architectures: Bringing Computation Closer to Data Sources](https://andrewodendaal.com/edge-computing-architectures/)
-- [Automated Remediation: Building Self-Healing Systems for Modern SRE Teams](https://andrewodendaal.com/automated-remediation-sre/)
-- [SRE Capacity Planning: Resource Management](https://andrewodendaal.com/articles/sre-capacity-planning/)
 <!-- BLOG-POST-LIST:END -->
