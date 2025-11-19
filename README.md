@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Service Mesh Architecture: The SRE&#39;s Guide to Network Reliability](https://andrewodendaal.com/service-mesh-architecture/)
 - [Rust in Industry: Case Studies and Success Stories in 2025](https://andrewodendaal.com/rust-industry-adoption/)
 - [Rust Compared to Other Programming Languages: A Comprehensive Analysis](https://andrewodendaal.com/rust-compared-other-languages/)
 - [AI-Powered Data Analytics: Transforming Enterprise Decision Making](https://andrewodendaal.com/ai-powered-data-analytics/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Transfer Learning Techniques: Leveraging Pre-trained Models for Enterprise AI Applications](https://andrewodendaal.com/transfer-learning-techniques/)
 - [Serverless Architecture Patterns for Distributed Systems](https://andrewodendaal.com/serverless-architecture-patterns/)
 - [The Future of Rust: Roadmap and Upcoming Features](https://andrewodendaal.com/rust-future-roadmap/)
-- [Microservices Architecture Patterns: Design Strategies for Scalable Systems](https://andrewodendaal.com/microservices-architecture-patterns/)
 <!-- BLOG-POST-LIST:END -->
