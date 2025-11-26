@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust Best Practices for Maintainable Code in 2025](https://andrewodendaal.com/rust-maintainable-code-practices/)
 - [Service Mesh Architecture: The SRE&#39;s Guide to Network Reliability](https://andrewodendaal.com/service-mesh-architecture/)
 - [Rust in Industry: Case Studies and Success Stories in 2025](https://andrewodendaal.com/rust-industry-adoption/)
 - [Rust Compared to Other Programming Languages: A Comprehensive Analysis](https://andrewodendaal.com/rust-compared-other-languages/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [SRE Incident Management: Response and Recovery](https://andrewodendaal.com/articles/sre-incident-management/)
 - [Transfer Learning Techniques: Leveraging Pre-trained Models for Enterprise AI Applications](https://andrewodendaal.com/transfer-learning-techniques/)
 - [Serverless Architecture Patterns for Distributed Systems](https://andrewodendaal.com/serverless-architecture-patterns/)
-- [The Future of Rust: Roadmap and Upcoming Features](https://andrewodendaal.com/rust-future-roadmap/)
 <!-- BLOG-POST-LIST:END -->
