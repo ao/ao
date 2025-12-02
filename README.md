@@ -4,6 +4,8 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [FinOps Practices for Cloud Cost Optimization in Distributed Systems](https://andrewodendaal.com/finops-practices-cloud-cost-optimization/)
+- [Hiring Cloud Engineers: What to Look For](https://andrewodendaal.com/hiring-cloud-engineers-what-to-look-for/)
 - [Rust Best Practices for Maintainable Code in 2025](https://andrewodendaal.com/rust-maintainable-code-practices/)
 - [Service Mesh Architecture: The SRE&#39;s Guide to Network Reliability](https://andrewodendaal.com/service-mesh-architecture/)
 - [Rust in Industry: Case Studies and Success Stories in 2025](https://andrewodendaal.com/rust-industry-adoption/)
@@ -27,6 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Chaos Engineering Practices: Building Resilient Systems Through Controlled Failure](https://andrewodendaal.com/chaos-engineering-practices/)
 - [Rust&#39;s Security Features: Building Robust, Vulnerability-Free Software](https://andrewodendaal.com/rust-security-features/)
 - [SRE Incident Management: Response and Recovery](https://andrewodendaal.com/articles/sre-incident-management/)
-- [Transfer Learning Techniques: Leveraging Pre-trained Models for Enterprise AI Applications](https://andrewodendaal.com/transfer-learning-techniques/)
-- [Serverless Architecture Patterns for Distributed Systems](https://andrewodendaal.com/serverless-architecture-patterns/)
 <!-- BLOG-POST-LIST:END -->
