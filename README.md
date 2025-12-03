@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DevOps for Edge Computing: Extending CI/CD to the Network Edge](https://andrewodendaal.com/devops-edge-computing/)
 - [FinOps Practices for Cloud Cost Optimization in Distributed Systems](https://andrewodendaal.com/finops-practices-cloud-cost-optimization/)
 - [Hiring Cloud Engineers: What to Look For](https://andrewodendaal.com/hiring-cloud-engineers-what-to-look-for/)
 - [Rust Best Practices for Maintainable Code in 2025](https://andrewodendaal.com/rust-maintainable-code-practices/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Quantum Computing for Enterprise: Implementation Guide](https://andrewodendaal.com/articles/quantum-enterprise-guide/)
 - [Chaos Engineering Practices: Building Resilient Systems Through Controlled Failure](https://andrewodendaal.com/chaos-engineering-practices/)
 - [Rust&#39;s Security Features: Building Robust, Vulnerability-Free Software](https://andrewodendaal.com/rust-security-features/)
-- [SRE Incident Management: Response and Recovery](https://andrewodendaal.com/articles/sre-incident-management/)
 <!-- BLOG-POST-LIST:END -->
