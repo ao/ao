@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI-Driven Cybersecurity: Advanced Threat Detection and Response](https://andrewodendaal.com/ai-driven-cybersecurity/)
 - [Rust in 2025: Future Directions and Predictions](https://andrewodendaal.com/rust-future-directions-2025/)
 - [Rust for AI and Machine Learning in 2025: Libraries, Performance, and Use Cases](https://andrewodendaal.com/rust-ai-machine-learning/)
 - [DevOps for Edge Computing: Extending CI/CD to the Network Edge](https://andrewodendaal.com/devops-edge-computing/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [GitOps for Multi-Environment Deployments: Scaling Infrastructure as Code](https://andrewodendaal.com/gitops-multi-environment-deployments/)
 - [SOC 2 and ISO 27001 for SaaS Companies: A Comprehensive Implementation Guide](https://andrewodendaal.com/soc2-and-iso27001-for-saas-companies/)
 - [Testing and Debugging in Rust: Ensuring Code Quality and Reliability](https://andrewodendaal.com/rust-testing-debugging/)
-- [Quantum Computing for Enterprise: Implementation Guide](https://andrewodendaal.com/articles/quantum-enterprise-guide/)
 <!-- BLOG-POST-LIST:END -->
