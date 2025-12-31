@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SRE Practices for Serverless Architectures: Ensuring Reliability Without Servers](https://andrewodendaal.com/sre-serverless-architectures/)
 - [Rust Year in Review: 2025&#39;s Major Milestones and Achievements](https://andrewodendaal.com/rust-year-in-review-2025/)
 - [AI-Driven Cybersecurity: Advanced Threat Detection and Response](https://andrewodendaal.com/ai-driven-cybersecurity/)
 - [Rust in 2025: Future Directions and Predictions](https://andrewodendaal.com/rust-future-directions-2025/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Rust Package Management with Cargo: Beyond the Basics](https://andrewodendaal.com/rust-cargo-package-management/)
 - [Rust Documentation Practices: Creating Clear, Comprehensive, and Useful Docs](https://andrewodendaal.com/rust-documentation-practices/)
 - [GitOps for Multi-Environment Deployments: Scaling Infrastructure as Code](https://andrewodendaal.com/gitops-multi-environment-deployments/)
-- [SOC 2 and ISO 27001 for SaaS Companies: A Comprehensive Implementation Guide](https://andrewodendaal.com/soc2-and-iso27001-for-saas-companies/)
 <!-- BLOG-POST-LIST:END -->
