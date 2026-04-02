@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Step Functions: Orchestrating Complex Workflows](https://andrewodendaal.com/aws-step-functions-orchestrating-complex-workflows/)
 - [Terraform Testing: Unit, Integration, and End-to-End](https://andrewodendaal.com/terraform-testing-unit-integration-e2e/)
 - [Distributed Tracing with OpenTelemetry: A Complete Guide](https://andrewodendaal.com/distributed-tracing-opentelemetry-complete-guide/)
 - [Container Security Scanning in CI/CD Pipelines](https://andrewodendaal.com/container-security-scanning-cicd-pipelines/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Kubernetes Network Policies: A Practical Security Guide](https://andrewodendaal.com/kubernetes-network-policies-practical-security-guide/)
 - [AWS Lambda Cold Starts: Causes, Measurement, and Mitigation Strategies](https://andrewodendaal.com/aws-lambda-cold-starts-causes-measurement-mitigation/)
 - [Terraform State Management Best Practices in 2026](https://andrewodendaal.com/terraform-state-management-best-practices-2026/)
-- [SRE Practices for Serverless Architectures: Ensuring Reliability Without Servers](https://andrewodendaal.com/sre-serverless-architectures/)
 <!-- BLOG-POST-LIST:END -->
