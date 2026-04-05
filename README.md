@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes Ingress Controllers: NGINX vs Traefik vs Istio Gateway](https://andrewodendaal.com/kubernetes-ingress-controllers-nginx-traefik-istio/)
 - [AWS Step Functions: Orchestrating Complex Workflows](https://andrewodendaal.com/aws-step-functions-orchestrating-complex-workflows/)
 - [Terraform Testing: Unit, Integration, and End-to-End](https://andrewodendaal.com/terraform-testing-unit-integration-e2e/)
 - [Distributed Tracing with OpenTelemetry: A Complete Guide](https://andrewodendaal.com/distributed-tracing-opentelemetry-complete-guide/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Python Async Programming: asyncio, Tasks, and Real-World Patterns](https://andrewodendaal.com/python-async-programming-asyncio-patterns/)
 - [Kubernetes Network Policies: A Practical Security Guide](https://andrewodendaal.com/kubernetes-network-policies-practical-security-guide/)
 - [AWS Lambda Cold Starts: Causes, Measurement, and Mitigation Strategies](https://andrewodendaal.com/aws-lambda-cold-starts-causes-measurement-mitigation/)
-- [Terraform State Management Best Practices in 2026](https://andrewodendaal.com/terraform-state-management-best-practices-2026/)
 <!-- BLOG-POST-LIST:END -->
