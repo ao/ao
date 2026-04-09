@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Packaging in 2026: uv, Poetry, and the Modern Ecosystem](https://andrewodendaal.com/python-packaging-2026-uv-poetry-modern-ecosystem/)
 - [Kubernetes Ingress Controllers: NGINX vs Traefik vs Istio Gateway](https://andrewodendaal.com/kubernetes-ingress-controllers-nginx-traefik-istio/)
 - [AWS Step Functions: Orchestrating Complex Workflows](https://andrewodendaal.com/aws-step-functions-orchestrating-complex-workflows/)
 - [Terraform Testing: Unit, Integration, and End-to-End](https://andrewodendaal.com/terraform-testing-unit-integration-e2e/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Building Production-Ready Docker Images: A Multi-Stage Build Guide](https://andrewodendaal.com/building-production-ready-docker-images-multi-stage/)
 - [Python Async Programming: asyncio, Tasks, and Real-World Patterns](https://andrewodendaal.com/python-async-programming-asyncio-patterns/)
 - [Kubernetes Network Policies: A Practical Security Guide](https://andrewodendaal.com/kubernetes-network-policies-practical-security-guide/)
-- [AWS Lambda Cold Starts: Causes, Measurement, and Mitigation Strategies](https://andrewodendaal.com/aws-lambda-cold-starts-causes-measurement-mitigation/)
 <!-- BLOG-POST-LIST:END -->
