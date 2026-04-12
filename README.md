@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementing SLOs and Error Budgets in Practice](https://andrewodendaal.com/implementing-slos-error-budgets-practice/)
 - [Python Packaging in 2026: uv, Poetry, and the Modern Ecosystem](https://andrewodendaal.com/python-packaging-2026-uv-poetry-modern-ecosystem/)
 - [Kubernetes Ingress Controllers: NGINX vs Traefik vs Istio Gateway](https://andrewodendaal.com/kubernetes-ingress-controllers-nginx-traefik-istio/)
 - [AWS Step Functions: Orchestrating Complex Workflows](https://andrewodendaal.com/aws-step-functions-orchestrating-complex-workflows/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [AWS ECS vs EKS: Choosing the Right Container Orchestrator in 2026](https://andrewodendaal.com/aws-ecs-vs-eks-choosing-container-orchestrator-2026/)
 - [Building Production-Ready Docker Images: A Multi-Stage Build Guide](https://andrewodendaal.com/building-production-ready-docker-images-multi-stage/)
 - [Python Async Programming: asyncio, Tasks, and Real-World Patterns](https://andrewodendaal.com/python-async-programming-asyncio-patterns/)
-- [Kubernetes Network Policies: A Practical Security Guide](https://andrewodendaal.com/kubernetes-network-policies-practical-security-guide/)
 <!-- BLOG-POST-LIST:END -->
