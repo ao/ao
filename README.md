@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Aurora Serverless v2: Architecture and Performance Guide](https://andrewodendaal.com/aws-aurora-serverless-v2-architecture-performance/)
 - [Implementing SLOs and Error Budgets in Practice](https://andrewodendaal.com/implementing-slos-error-budgets-practice/)
 - [Python Packaging in 2026: uv, Poetry, and the Modern Ecosystem](https://andrewodendaal.com/python-packaging-2026-uv-poetry-modern-ecosystem/)
 - [Kubernetes Ingress Controllers: NGINX vs Traefik vs Istio Gateway](https://andrewodendaal.com/kubernetes-ingress-controllers-nginx-traefik-istio/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Rust for Cloud Engineers: Why Systems Programming Matters](https://andrewodendaal.com/rust-for-cloud-engineers-systems-programming/)
 - [AWS ECS vs EKS: Choosing the Right Container Orchestrator in 2026](https://andrewodendaal.com/aws-ecs-vs-eks-choosing-container-orchestrator-2026/)
 - [Building Production-Ready Docker Images: A Multi-Stage Build Guide](https://andrewodendaal.com/building-production-ready-docker-images-multi-stage/)
-- [Python Async Programming: asyncio, Tasks, and Real-World Patterns](https://andrewodendaal.com/python-async-programming-asyncio-patterns/)
 <!-- BLOG-POST-LIST:END -->
