@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rust WebAssembly: Building High-Performance Web Applications](https://andrewodendaal.com/rust-webassembly-high-performance-web-apps/)
 - [AWS Aurora Serverless v2: Architecture and Performance Guide](https://andrewodendaal.com/aws-aurora-serverless-v2-architecture-performance/)
 - [Implementing SLOs and Error Budgets in Practice](https://andrewodendaal.com/implementing-slos-error-budgets-practice/)
 - [Python Packaging in 2026: uv, Poetry, and the Modern Ecosystem](https://andrewodendaal.com/python-packaging-2026-uv-poetry-modern-ecosystem/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [GitOps with ArgoCD: From Zero to Production](https://andrewodendaal.com/gitops-argocd-zero-to-production/)
 - [Rust for Cloud Engineers: Why Systems Programming Matters](https://andrewodendaal.com/rust-for-cloud-engineers-systems-programming/)
 - [AWS ECS vs EKS: Choosing the Right Container Orchestrator in 2026](https://andrewodendaal.com/aws-ecs-vs-eks-choosing-container-orchestrator-2026/)
-- [Building Production-Ready Docker Images: A Multi-Stage Build Guide](https://andrewodendaal.com/building-production-ready-docker-images-multi-stage/)
 <!-- BLOG-POST-LIST:END -->
