@@ -4,6 +4,8 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Architecture Guide: Production Patterns and Best Practices](https://andrewodendaal.com/aws-architecture-guide/)
+- [Kubernetes Guide: From Basics to Production Operations](https://andrewodendaal.com/kubernetes-guide/)
 - [Kubernetes Multi-Cluster Management with Fleet and Rancher](https://andrewodendaal.com/kubernetes-multi-cluster-management-fleet-rancher/)
 - [Rust WebAssembly: Building High-Performance Web Applications](https://andrewodendaal.com/rust-webassembly-high-performance-web-apps/)
 - [AWS Aurora Serverless v2: Architecture and Performance Guide](https://andrewodendaal.com/aws-aurora-serverless-v2-architecture-performance/)
@@ -27,6 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [AWS Cost Optimization: 15 Techniques That Actually Work](https://andrewodendaal.com/aws-cost-optimization-techniques-that-work/)
 - [Kubernetes RBAC Deep Dive: Securing Multi-Tenant Clusters](https://andrewodendaal.com/kubernetes-rbac-deep-dive-multi-tenant-clusters/)
 - [Terraform Modules: Design Patterns for Reusable Infrastructure](https://andrewodendaal.com/terraform-modules-design-patterns-reusable-infrastructure/)
-- [GitOps with ArgoCD: From Zero to Production](https://andrewodendaal.com/gitops-argocd-zero-to-production/)
-- [Rust for Cloud Engineers: Why Systems Programming Matters](https://andrewodendaal.com/rust-for-cloud-engineers-systems-programming/)
 <!-- BLOG-POST-LIST:END -->
