@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure Drift Detection and Remediation](https://andrewodendaal.com/infrastructure-drift-detection-remediation/)
 - [AWS Architecture Guide: Production Patterns and Best Practices](https://andrewodendaal.com/aws-architecture-guide/)
 - [Kubernetes Guide: From Basics to Production Operations](https://andrewodendaal.com/kubernetes-guide/)
 - [Kubernetes Multi-Cluster Management with Fleet and Rancher](https://andrewodendaal.com/kubernetes-multi-cluster-management-fleet-rancher/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Python Type Hints and Static Analysis in Production Codebases](https://andrewodendaal.com/python-type-hints-static-analysis-production/)
 - [AWS Cost Optimization: 15 Techniques That Actually Work](https://andrewodendaal.com/aws-cost-optimization-techniques-that-work/)
 - [Kubernetes RBAC Deep Dive: Securing Multi-Tenant Clusters](https://andrewodendaal.com/kubernetes-rbac-deep-dive-multi-tenant-clusters/)
-- [Terraform Modules: Design Patterns for Reusable Infrastructure](https://andrewodendaal.com/terraform-modules-design-patterns-reusable-infrastructure/)
 <!-- BLOG-POST-LIST:END -->
