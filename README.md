@@ -4,13 +4,8 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [AWS Organizations and Control Tower: Multi-Account Strategy](https://andrewodendaal.com/aws-organizations-control-tower-multi-account-strategy/)
-- [Chaos Engineering on AWS: Fault Injection Simulator Guide](https://andrewodendaal.com/chaos-engineering-aws-fault-injection-simulator/)
-- [DevSecOps Pipeline: Integrating Security into Every Stage](https://andrewodendaal.com/devsecops-pipeline-integrating-security-every-stage/)
-- [Kubernetes eBPF: Next-Generation Observability and Security](https://andrewodendaal.com/kubernetes-ebpf-observability-security/)
+- [Why I Built Wyn: A Programming Language That Compiles to C](https://andrewodendaal.com/why-i-built-wyn-programming-language/)
 - [Kubernetes Gateway API: The Future of Ingress](https://andrewodendaal.com/kubernetes-gateway-api-future-of-ingress/)
-- [Python Data Pipelines with Polars and DuckDB](https://andrewodendaal.com/python-data-pipelines-polars-duckdb/)
-- [Rust Async Runtime Deep Dive: Tokio Architecture](https://andrewodendaal.com/rust-async-runtime-tokio-architecture/)
 - [AWS Bedrock: Building AI Applications with Foundation Models](https://andrewodendaal.com/aws-bedrock-building-ai-applications-foundation-models/)
 - [Infrastructure Drift Detection and Remediation](https://andrewodendaal.com/infrastructure-drift-detection-remediation/)
 - [AWS Architecture Guide: Production Patterns and Best Practices](https://andrewodendaal.com/aws-architecture-guide/)
@@ -29,4 +24,9 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Python Performance Optimization: Profiling and Tuning Guide](https://andrewodendaal.com/python-performance-optimization-profiling-tuning/)
 - [Kubernetes Operators: Building Custom Controllers in Go](https://andrewodendaal.com/kubernetes-operators-custom-controllers-go/)
 - [Rust Error Handling Patterns for Production Applications](https://andrewodendaal.com/rust-error-handling-patterns-production/)
+- [AWS CDK vs Terraform: A Practical Comparison in 2026](https://andrewodendaal.com/aws-cdk-vs-terraform-practical-comparison-2026/)
+- [Platform Engineering: Building an Internal Developer Platform](https://andrewodendaal.com/platform-engineering-internal-developer-platform/)
+- [Kubernetes Horizontal Pod Autoscaling with Custom Metrics](https://andrewodendaal.com/kubernetes-hpa-custom-metrics-autoscaling/)
+- [Go Concurrency Patterns for Microservices](https://andrewodendaal.com/go-concurrency-patterns-microservices/)
+- [Implementing Zero-Trust Networking on AWS](https://andrewodendaal.com/implementing-zero-trust-networking-aws/)
 <!-- BLOG-POST-LIST:END -->
