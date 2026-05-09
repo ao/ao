@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python Data Pipelines with Polars and DuckDB](https://andrewodendaal.com/python-data-pipelines-polars-duckdb/)
 - [Why I Built Wyn: A Programming Language That Compiles to C](https://andrewodendaal.com/why-i-built-wyn-programming-language/)
 - [Kubernetes Gateway API: The Future of Ingress](https://andrewodendaal.com/kubernetes-gateway-api-future-of-ingress/)
 - [AWS Bedrock: Building AI Applications with Foundation Models](https://andrewodendaal.com/aws-bedrock-building-ai-applications-foundation-models/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Platform Engineering: Building an Internal Developer Platform](https://andrewodendaal.com/platform-engineering-internal-developer-platform/)
 - [Kubernetes Horizontal Pod Autoscaling with Custom Metrics](https://andrewodendaal.com/kubernetes-hpa-custom-metrics-autoscaling/)
 - [Go Concurrency Patterns for Microservices](https://andrewodendaal.com/go-concurrency-patterns-microservices/)
-- [Implementing Zero-Trust Networking on AWS](https://andrewodendaal.com/implementing-zero-trust-networking-aws/)
 <!-- BLOG-POST-LIST:END -->
