@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chaos Engineering on AWS: Fault Injection Simulator Guide](https://andrewodendaal.com/chaos-engineering-aws-fault-injection-simulator/)
 - [Python Data Pipelines with Polars and DuckDB](https://andrewodendaal.com/python-data-pipelines-polars-duckdb/)
 - [Why I Built Wyn: A Programming Language That Compiles to C](https://andrewodendaal.com/why-i-built-wyn-programming-language/)
 - [Kubernetes Gateway API: The Future of Ingress](https://andrewodendaal.com/kubernetes-gateway-api-future-of-ingress/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [AWS CDK vs Terraform: A Practical Comparison in 2026](https://andrewodendaal.com/aws-cdk-vs-terraform-practical-comparison-2026/)
 - [Platform Engineering: Building an Internal Developer Platform](https://andrewodendaal.com/platform-engineering-internal-developer-platform/)
 - [Kubernetes Horizontal Pod Autoscaling with Custom Metrics](https://andrewodendaal.com/kubernetes-hpa-custom-metrics-autoscaling/)
-- [Go Concurrency Patterns for Microservices](https://andrewodendaal.com/go-concurrency-patterns-microservices/)
 <!-- BLOG-POST-LIST:END -->
