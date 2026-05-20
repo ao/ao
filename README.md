@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DevSecOps Pipeline: Integrating Security into Every Stage](https://andrewodendaal.com/devsecops-pipeline-integrating-security-every-stage/)
 - [Rust Async Runtime Deep Dive: Tokio Architecture](https://andrewodendaal.com/rust-async-runtime-tokio-architecture/)
 - [Chaos Engineering on AWS: Fault Injection Simulator Guide](https://andrewodendaal.com/chaos-engineering-aws-fault-injection-simulator/)
 - [Python Data Pipelines with Polars and DuckDB](https://andrewodendaal.com/python-data-pipelines-polars-duckdb/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Kubernetes Operators: Building Custom Controllers in Go](https://andrewodendaal.com/kubernetes-operators-custom-controllers-go/)
 - [Rust Error Handling Patterns for Production Applications](https://andrewodendaal.com/rust-error-handling-patterns-production/)
 - [AWS CDK vs Terraform: A Practical Comparison in 2026](https://andrewodendaal.com/aws-cdk-vs-terraform-practical-comparison-2026/)
-- [Platform Engineering: Building an Internal Developer Platform](https://andrewodendaal.com/platform-engineering-internal-developer-platform/)
 <!-- BLOG-POST-LIST:END -->
