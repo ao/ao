@@ -4,6 +4,15 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Longest Alphabetical Substring &lpar;JS&rpar;](https://andrewodendaal.com/longest-alphabetical-substring-in-javascript/)
+- [Longest Alphabetical Substring in Java](https://andrewodendaal.com/longest-alphabetical-substring-in-java/)
+- [Longest Vowel Substring in JS](https://andrewodendaal.com/longest-vowel-substring-in-javascript/)
+- [Longest Vowel Substring in Python](https://andrewodendaal.com/longest-vowel-substring-in-python/)
+- [Permutations Alphabetically in JS](https://andrewodendaal.com/permutations-alphabetically-in-javascript/)
+- [Permutations Alphabetically &lpar;Java&rpar;](https://andrewodendaal.com/permutations-alphabetically-in-java/)
+- [Find Number With Most Digits in Go](https://andrewodendaal.com/find-number-with-most-digits-in-go/)
+- [Find Number With Most Digits in Java](https://andrewodendaal.com/find-number-with-most-digits-in-java/)
+- [Find Number With Most Digits in JS](https://andrewodendaal.com/find-number-with-most-digits-in-javascript/)
 - [AWS Organizations and Control Tower: Multi-Account Strategy](https://andrewodendaal.com/aws-organizations-control-tower-multi-account-strategy/)
 - [Kubernetes eBPF: Next-Generation Observability and Security](https://andrewodendaal.com/kubernetes-ebpf-observability-security/)
 - [DevSecOps Pipeline: Integrating Security into Every Stage](https://andrewodendaal.com/devsecops-pipeline-integrating-security-every-stage/)
@@ -20,13 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Rust WebAssembly: Building High-Performance Web Applications](https://andrewodendaal.com/rust-webassembly-high-performance-web-apps/)
 - [AWS Aurora Serverless v2: Architecture and Performance Guide](https://andrewodendaal.com/aws-aurora-serverless-v2-architecture-performance/)
 - [Implementing SLOs and Error Budgets in Practice](https://andrewodendaal.com/implementing-slos-error-budgets-practice/)
-- [Python Packaging in 2026: uv, Poetry, and the Modern Ecosystem](https://andrewodendaal.com/python-packaging-2026-uv-poetry-modern-ecosystem/)
-- [Kubernetes Ingress Controllers: NGINX vs Traefik vs Istio Gateway](https://andrewodendaal.com/kubernetes-ingress-controllers-nginx-traefik-istio/)
-- [AWS Step Functions: Orchestrating Complex Workflows](https://andrewodendaal.com/aws-step-functions-orchestrating-complex-workflows/)
-- [Terraform Testing: Unit, Integration, and End-to-End](https://andrewodendaal.com/terraform-testing-unit-integration-e2e/)
-- [Distributed Tracing with OpenTelemetry: A Complete Guide](https://andrewodendaal.com/distributed-tracing-opentelemetry-complete-guide/)
-- [Container Security Scanning in CI/CD Pipelines](https://andrewodendaal.com/container-security-scanning-cicd-pipelines/)
-- [AWS EventBridge: Building Event-Driven Architectures](https://andrewodendaal.com/aws-eventbridge-event-driven-architectures/)
-- [Python Performance Optimization: Profiling and Tuning Guide](https://andrewodendaal.com/python-performance-optimization-profiling-tuning/)
-- [Kubernetes Operators: Building Custom Controllers in Go](https://andrewodendaal.com/kubernetes-operators-custom-controllers-go/)
 <!-- BLOG-POST-LIST:END -->
