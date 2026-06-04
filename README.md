@@ -4,6 +4,7 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Programming Puzzle Solutions: JS, Java, Python, Go](https://andrewodendaal.com/programming-puzzle-solutions/)
 - [Karpenter v1 vs Cluster Autoscaler: A Production Migration Story](https://andrewodendaal.com/karpenter-v1-vs-cluster-autoscaler-production/)
 - [Longest Alphabetical Substring &lpar;JS&rpar;](https://andrewodendaal.com/longest-alphabetical-substring-in-javascript/)
 - [Longest Alphabetical Substring in Java](https://andrewodendaal.com/longest-alphabetical-substring-in-java/)
@@ -28,5 +29,4 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Kubernetes Guide: From Basics to Production Operations](https://andrewodendaal.com/kubernetes-guide/)
 - [Kubernetes Multi-Cluster Management with Fleet and Rancher](https://andrewodendaal.com/kubernetes-multi-cluster-management-fleet-rancher/)
 - [Rust WebAssembly: Building High-Performance Web Applications](https://andrewodendaal.com/rust-webassembly-high-performance-web-apps/)
-- [AWS Aurora Serverless v2: Architecture and Performance Guide](https://andrewodendaal.com/aws-aurora-serverless-v2-architecture-performance/)
 <!-- BLOG-POST-LIST:END -->
