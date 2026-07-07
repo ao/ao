@@ -9,9 +9,6 @@
   $ whoami
   distributed systems · developer tooling · cloud
 
-  $ stat --repos
-  133 public   ·   141 stars   ·   66 followers
-
   $ ls ~/projects
   wynlang      a programming language that compiles to C   [creator]
   ktmm-py      keep that mouse moving                      [Python]
