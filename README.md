@@ -1,8 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Andrew 👋</h1>
 
-Looking for something to read? [Articles about Software Engineering, AI, DevOps, Cloud and more](https://andrewodendaal.com/)
+<p align="center">
+  <b>Software & Cloud Engineer @ AWS</b> · Distributed systems, DevOps & developer tooling
+</p>
 
-## Latest Blog Posts
+<p align="center">
+  <a href="https://andrewodendaal.com"><img src="https://img.shields.io/badge/Blog-andrewodendaal.com-0A66C2?style=flat-square&logo=hashnode&logoColor=white" alt="Blog" /></a>
+  <a href="https://github.com/ao?tab=followers"><img src="https://img.shields.io/github/followers/ao?style=flat-square&label=Followers&color=0A66C2" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ao&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views" />
+</p>
+
+---
+
+### About me
+
+- 🛠️  I build distributed systems, developer tooling, and cloud infrastructure.
+- ☁️  Deep in the **AWS** and **Kubernetes** ecosystems — day job and side projects both.
+- ✍️  I write about Software Engineering, AI, DevOps & Cloud at **[andrewodendaal.com](https://andrewodendaal.com)**.
+- 🧪  Polyglot by choice — Python, Go, Rust, Java, TypeScript, and whatever fits the problem.
+
+---
+
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[ktmm-py](https://github.com/ao/ktmm-py)** | Keep That Mouse Moving — cross-platform utility to keep your machine awake | `Python` |
+| **[Serengeti](https://github.com/ao/Serengeti)** | An autonomous, self-managing distributed database | `Java` |
+| **[hivemind](https://github.com/ao/hivemind)** | Lightweight distributed container orchestration platform | `Go` |
+| **[pyroid](https://github.com/ao/pyroid)** | Blazing-fast Rust-powered utilities to eliminate Python's bottlenecks | `Rust` |
+| **[favicons](https://github.com/ao/favicons)** | Favicons for all — simple, reliable favicon serving | `PHP` |
+| **[RunJavascript](https://github.com/ao/RunJavascript_ChromeExtension)** | Chrome extension to run custom JavaScript on any page | `JavaScript` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ao&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&title_color=0A66C2&icon_color=0A66C2" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ao&layout=compact&hide_border=true&langs_count=8&theme=default&title_color=0A66C2" alt="Top languages" />
+</p>
+
+---
+
+### ✍️ Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Programming Puzzle Solutions: JS, Java, Python, Go](https://andrewodendaal.com/programming-puzzle-solutions/)
 - [Karpenter v1 vs Cluster Autoscaler: A Production Migration Story](https://andrewodendaal.com/karpenter-v1-vs-cluster-autoscaler-production/)
@@ -15,18 +76,12 @@ Looking for something to read? [Articles about Software Engineering, AI, DevOps,
 - [Find Number With Most Digits in Go](https://andrewodendaal.com/find-number-with-most-digits-in-go/)
 - [Find Number With Most Digits in Java](https://andrewodendaal.com/find-number-with-most-digits-in-java/)
 - [Find Number With Most Digits in JS](https://andrewodendaal.com/find-number-with-most-digits-in-javascript/)
-- [AWS Organizations and Control Tower: Multi-Account Strategy](https://andrewodendaal.com/aws-organizations-control-tower-multi-account-strategy/)
-- [Kubernetes eBPF: Next-Generation Observability and Security](https://andrewodendaal.com/kubernetes-ebpf-observability-security/)
-- [DevSecOps Pipeline: Integrating Security into Every Stage](https://andrewodendaal.com/devsecops-pipeline-integrating-security-every-stage/)
-- [Rust Async Runtime Deep Dive: Tokio Architecture](https://andrewodendaal.com/rust-async-runtime-tokio-architecture/)
-- [Chaos Engineering on AWS: Fault Injection Simulator Guide](https://andrewodendaal.com/chaos-engineering-aws-fault-injection-simulator/)
-- [Python Data Pipelines with Polars and DuckDB](https://andrewodendaal.com/python-data-pipelines-polars-duckdb/)
-- [Why I Built Wyn: A Programming Language That Compiles to C](https://andrewodendaal.com/why-i-built-wyn-programming-language/)
-- [Kubernetes Gateway API: The Future of Ingress](https://andrewodendaal.com/kubernetes-gateway-api-future-of-ingress/)
-- [AWS Bedrock: Building AI Applications with Foundation Models](https://andrewodendaal.com/aws-bedrock-building-ai-applications-foundation-models/)
-- [Infrastructure Drift Detection and Remediation](https://andrewodendaal.com/infrastructure-drift-detection-remediation/)
-- [AWS Architecture Guide: Production Patterns and Best Practices](https://andrewodendaal.com/aws-architecture-guide/)
-- [Kubernetes Guide: From Basics to Production Operations](https://andrewodendaal.com/kubernetes-guide/)
-- [Kubernetes Multi-Cluster Management with Fleet and Rancher](https://andrewodendaal.com/kubernetes-multi-cluster-management-fleet-rancher/)
-- [Rust WebAssembly: Building High-Performance Web Applications](https://andrewodendaal.com/rust-webassembly-high-performance-web-apps/)
 <!-- BLOG-POST-LIST:END -->
+
+📚 [Read more on my blog →](https://andrewodendaal.com)
+
+---
+
+<p align="center">
+  <a href="https://andrewodendaal.com"><img src="https://img.shields.io/badge/Website-andrewodendaal.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+</p>
