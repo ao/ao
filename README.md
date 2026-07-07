@@ -41,9 +41,3 @@ class Engineer:
 | **[pyroid](https://github.com/ao/pyroid)** | Blazing-fast Rust-powered utilities to eliminate Python's bottlenecks | `Rust` |
 | **[favicons](https://github.com/ao/favicons)** | Favicons for all — simple, reliable favicon serving | `PHP` |
 | **[RunJavascript](https://github.com/ao/RunJavascript_ChromeExtension)** | Chrome extension to run custom JavaScript on any page | `JavaScript` |
-
-<br>
-
-```bash
-$ echo "thanks for stopping by" | figlet
-```
