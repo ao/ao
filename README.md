@@ -11,7 +11,7 @@
 
   $ stat --repos
 <!--STATS:START-->
-  133 public   ·   142 stars   ·   66 followers
+  133 public   ·   141 stars   ·   66 followers
 <!--STATS:END-->
 
   $ ls ~/projects
