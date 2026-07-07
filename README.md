@@ -1,27 +1,99 @@
-<h1 align="center">Hi, I'm Andrew 👋</h1>
+<h1 align="center">whoami</h1>
 
-<p align="center">
-  <b>Software & Cloud Engineer @ AWS</b> · Distributed systems, DevOps & developer tooling
-</p>
+```python
+class Engineer:
+    def __init__(self):
+        self.focus = ["distributed systems", "developer tooling", "cloud infra"]
+        self.stack = ["Python", "Go", "Rust", "Java", "TypeScript"]
+        self.status = "always building"
 
-<p align="center">
-  <a href="https://andrewodendaal.com"><img src="https://img.shields.io/badge/Blog-andrewodendaal.com-0A66C2?style=flat-square&logo=hashnode&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/ao?tab=followers"><img src="https://img.shields.io/github/followers/ao?style=flat-square&label=Followers&color=0A66C2" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ao&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views" />
-</p>
-
----
-
-### About me
-
-- 🛠️  I build distributed systems, developer tooling, and cloud infrastructure.
-- ☁️  Deep in the **AWS** and **Kubernetes** ecosystems — day job and side projects both.
-- ✍️  I write about Software Engineering, AI, DevOps & Cloud at **[andrewodendaal.com](https://andrewodendaal.com)**.
-- 🧪  Polyglot by choice — Python, Go, Rust, Java, TypeScript, and whatever fits the problem.
+    def __repr__(self):
+        return "curious. pragmatic. ships things."
+```
 
 ---
 
-### 🧰 Tech Stack
+### 🧩 Puzzle of the moment
+
+The same loop, four languages. Three of them print the **same** number. One is the odd one out.
+
+<table>
+<tr>
+<td>
+
+```python
+# Python
+x = 0
+for i in range(5):
+    x += i
+print(x)
+```
+
+</td>
+<td>
+
+```go
+// Go
+x := 0
+for i := 0; i < 5; i++ {
+    x += i
+}
+fmt.Println(x)
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+```java
+// Java
+int x = 0;
+for (int i = 1; i <= 5; i++) {
+    x += i;
+}
+System.out.println(x);
+```
+
+</td>
+<td>
+
+```javascript
+// JavaScript
+let x = 0;
+for (let i = 0; i < 5; i++) {
+  x += i;
+}
+console.log(x);
+```
+
+</td>
+</tr>
+</table>
+
+**Which one is the odd one out — and what does it print?**
+
+<details>
+<summary>💡 Reveal answer</summary>
+
+<br>
+
+**Java** is the odd one out. Its loop runs `i` from **1 through 5** (`0+1+2+3+4+5` = **15**), while Python, Go, and JavaScript all run `i` from **0 through 4** (`0+1+2+3+4` = **10**).
+
+```
+Python → 10
+Go     → 10
+JS     → 10
+Java   → 15   ← odd one out
+```
+
+Off-by-one bugs: the reason code review exists. 🐛
+
+</details>
+
+---
+
+### 🧰 Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -29,7 +101,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -51,38 +122,8 @@
 | **[favicons](https://github.com/ao/favicons)** | Favicons for all — simple, reliable favicon serving | `PHP` |
 | **[RunJavascript](https://github.com/ao/RunJavascript_ChromeExtension)** | Chrome extension to run custom JavaScript on any page | `JavaScript` |
 
----
+<br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20repos-133-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Public repos" />
-  <img src="https://img.shields.io/github/followers/ao?style=for-the-badge&logo=github&logoColor=white&color=0A66C2&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ao?style=for-the-badge&logo=github&logoColor=white&color=0A66C2&label=Total%20stars&affiliations=OWNER" alt="Total stars" />
-</p>
-
----
-
-### ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Programming Puzzle Solutions: JS, Java, Python, Go](https://andrewodendaal.com/programming-puzzle-solutions/)
-- [Karpenter v1 vs Cluster Autoscaler: A Production Migration Story](https://andrewodendaal.com/karpenter-v1-vs-cluster-autoscaler-production/)
-- [Longest Alphabetical Substring &lpar;JS&rpar;](https://andrewodendaal.com/longest-alphabetical-substring-in-javascript/)
-- [Longest Alphabetical Substring in Java](https://andrewodendaal.com/longest-alphabetical-substring-in-java/)
-- [Longest Vowel Substring in JS](https://andrewodendaal.com/longest-vowel-substring-in-javascript/)
-- [Longest Vowel Substring in Python](https://andrewodendaal.com/longest-vowel-substring-in-python/)
-- [Permutations Alphabetically in JS](https://andrewodendaal.com/permutations-alphabetically-in-javascript/)
-- [Permutations Alphabetically &lpar;Java&rpar;](https://andrewodendaal.com/permutations-alphabetically-in-java/)
-- [Find Number With Most Digits in Go](https://andrewodendaal.com/find-number-with-most-digits-in-go/)
-- [Find Number With Most Digits in Java](https://andrewodendaal.com/find-number-with-most-digits-in-java/)
-- [Find Number With Most Digits in JS](https://andrewodendaal.com/find-number-with-most-digits-in-javascript/)
-<!-- BLOG-POST-LIST:END -->
-
-📚 [Read more on my blog →](https://andrewodendaal.com)
-
----
-
-<p align="center">
-  <a href="https://andrewodendaal.com"><img src="https://img.shields.io/badge/Website-andrewodendaal.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-</p>
+```bash
+$ echo "thanks for stopping by" | figlet
+```
