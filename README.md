@@ -10,9 +10,7 @@
   distributed systems · developer tooling · cloud
 
   $ stat --repos
-<!--STATS:START-->
   133 public   ·   141 stars   ·   66 followers
-<!--STATS:END-->
 
   $ ls ~/projects
   wynlang      a programming language that compiles to C   [creator]

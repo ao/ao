@@ -38,10 +38,11 @@ jobs:
           line = sys.argv[1]
           p = pathlib.Path("README.md")
           text = p.read_text()
+          # Match the stats line by its shape: "<n> public · <n> stars · <n> followers"
           new = re.sub(
-              r"(<!--STATS:START-->\n).*?(\n<!--STATS:END-->)",
-              lambda m: m.group(1) + line + m.group(2),
-              text, flags=re.DOTALL,
+              r"^ *\d+ public.*?\d+ stars.*?\d+ followers *$",
+              line,
+              text, count=1, flags=re.MULTILINE,
           )
           if new != text:
               p.write_text(new)
