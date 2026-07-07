@@ -23,6 +23,36 @@ _start:
 
 ---
 
+### 📊 Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ao?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ao?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=1f6feb&label=Stars&affiliations=OWNER" alt="Stars" />
+  <img src="https://img.shields.io/badge/Public%20repos-133-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos" />
+  <img src="https://img.shields.io/badge/On%20GitHub%20since-2012-1f6feb?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Since 2012" />
+</p>
+
+```console
+$ gh api user | jq '.stats'
+{
+  "member_since"        : "2012",          # 13 years on GitHub
+  "public_repos"        : 133,
+  "total_stars_earned"  : 142,
+  "contributions_1y"    : 10990,
+  "commits_1y"          : 448
+}
+
+$ gh repo list --json language | jq 'group_by(.language)'
+JavaScript  ████████████████░░░░░░░░░░░░░░░░  18%
+Python      ███████████████░░░░░░░░░░░░░░░░░  17%
+PHP         ███████████░░░░░░░░░░░░░░░░░░░░░  12%
+Go          ██████████░░░░░░░░░░░░░░░░░░░░░░  11%
+Java        ███████░░░░░░░░░░░░░░░░░░░░░░░░░   8%
+TypeScript  █████░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+```
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Stack |
