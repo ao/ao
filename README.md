@@ -56,8 +56,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ao&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default&title_color=0A66C2&icon_color=0A66C2" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ao&layout=compact&hide_border=true&langs_count=8&theme=default&title_color=0A66C2" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Public%20repos-133-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Public repos" />
+  <img src="https://img.shields.io/github/followers/ao?style=for-the-badge&logo=github&logoColor=white&color=0A66C2&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ao?style=for-the-badge&logo=github&logoColor=white&color=0A66C2&label=Total%20stars&affiliations=OWNER" alt="Total stars" />
 </p>
 
 ---
