@@ -1,30 +1,24 @@
 ```
-                              ao@github
-       .--.                   ───────────────────────────────
-      |o_o |                  uptime ....... since 2012
-      |:_/ |                  repos ........ 133 public
-     //   \ \                 stars ........ 142
-    (|     | )                followers .... 66
-   /'\_   _/`\                focus ........ distributed systems
-   \___)=(___/                ............. developer tooling · cloud
+                    ▄▀█ █▀█
+                    █▀█ █▄█    ao @ github . since 2012
 
-                              languages ....
-                              Python  ███████████████░░░░░  17%
-                              Go      ██████████░░░░░░░░░░  11%
-                              Rust    ████░░░░░░░░░░░░░░░░   4%
-                              Java    ███████░░░░░░░░░░░░░   8%
-                              JS/TS   ████████████████████  23%
-```
 
-```console
-$ ls ~/projects
+  login: ao
+  Last login: 2012 on ttys001
 
-  ktmm-py      keep that mouse moving                   [Python]
-  serengeti    autonomous distributed database          [Java]
-  hivemind     distributed container orchestration       [Go]
-  pyroid       rust-powered utils for python             [Rust]
+  $ whoami
+  distributed systems · developer tooling · cloud
 
-$ _
+  $ stat --repos
+  133 public   ·   142 stars   ·   66 followers
+
+  $ ls ~/projects
+  ktmm-py      keep that mouse moving                  [Python]
+  serengeti    autonomous distributed database         [Java]
+  hivemind     distributed container orchestration     [Go]
+  pyroid       rust-powered utils for python           [Rust]
+
+  $ █
 ```
 
 <sub><a href="https://github.com/ao?tab=repositories">→ all repositories</a></sub>
